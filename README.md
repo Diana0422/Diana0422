@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diana0422)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diana0422&show_icons=true&theme=onedark)
 
 <!---
 Diana0422/Diana0422 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
